@@ -5,3 +5,16 @@ This is a simple Java calculator application designed to perform basic arithmeti
 * Subtraction
 * Multiplication
 * Division
+## Getting Started
+To get a local copy up and running follow these simple steps.
+## Prerequisites
+* Java Development Kit (JDK) installed on your system
+* A Java IDE such as IntelliJ IDEA, Eclipse, or NetBeans
+## Installation
+1. Clone the repo
+   ```sh git clone https://github.com/AdityaSodha/Calculator```
+2. Open the project in your Java IDE
+## Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+## Contact
+Email adityasodha@yahoo.com or work.adityasodha@gmail.com
