@@ -14,7 +14,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
    ```shall
     https://github.com/AdityaSodha/Java-Calculator 
-3. Open the project in your Java IDE
+3. Open MyCalculator.java in your Java IDE
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 ## Contact
